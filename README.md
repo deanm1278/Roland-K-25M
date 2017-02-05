@@ -10,6 +10,7 @@ This project contains reverse engineered schematics for the unit (including pino
 
 Pinout for the connector is:
 
+![screenshot 1](https://cloud.githubusercontent.com/assets/6306234/22630634/e611e726-ebcb-11e6-82a3-535f4228b4c1.png)
 
 And the key matrix (from left to right) is
 
